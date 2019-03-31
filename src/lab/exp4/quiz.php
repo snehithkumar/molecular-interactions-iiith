@@ -4,7 +4,6 @@
 *{
 	font-family: Verdana, calibri;
 }
-
 #content{
 	margin : auto;
 	width: 900px;
